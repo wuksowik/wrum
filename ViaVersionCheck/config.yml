@@ -1,0 +1,15 @@
+#Plugin by Wuksowik!
+
+VersionCheckEnabled: true
+
+VersionCheckOnJoin:
+  - ''
+  - ''
+  - '&7You play on &2{VERSION}'
+  - ''
+  - ''
+  
+  
+#Command /versioncheck
+CommandEnable: true
+CommandVersionCheck: '&8[&7VersionChecker&8] &9>> &eYou play on version &3{VERSION}'

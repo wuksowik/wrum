@@ -1,0 +1,10 @@
+main: vi.a.ver.s.Main
+author: wuksowik
+name: ViaVersionCheck
+version: 1.1
+api-version: 1.13
+depend: [ViaVersion]
+commands:
+  versioncheck:
+    description: Use to check your version!
+    aliases: [vercheck, checkversion]
